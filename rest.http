@@ -1,0 +1,12 @@
+GET http://localhost:3000/product/
+
+
+###
+POST http://localhost:3000/product
+
+###
+GET http://localhost:3000/product/123
+
+
+###
+GET http://localhost:3000/
